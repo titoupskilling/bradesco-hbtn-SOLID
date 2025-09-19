@@ -1,7 +1,7 @@
 /**
  * classe users, representando nossa entidade
 */ 
-class UsersModels {
+class UserModels {
 
     int idUser;
     
