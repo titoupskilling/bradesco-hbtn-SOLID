@@ -11,6 +11,10 @@ public class Comments {
         return;
     }
 
+    /**
+     * <p> este método publica resultados com base na data
+     * </p>
+     */
     public List<Result> publishResults(Date date) {
         // alguma lógica de negócios aqui
     }
